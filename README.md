@@ -68,15 +68,6 @@ Each robot inherits from abstract classes:
    ```
 4. Output will be saved in `fileOutput2b.txt`.
 
-## 🎓 Contributors
-
-| Name                          | Student ID     | Role Description |
-|-------------------------------|----------------|------------------|
-| Aleef Nufayl B. M. Z. Badri   | 1211112310     | Robot classes, data structures, Q7-Q8 report |
-| Darvesh Singh                 | 1211110669     | UML, screenshots, `main`, Q1 report         |
-| Oswald Ng Hao Jet             | 1211109417     | Core logic, parent classes, Q5-Q6 report    |
-| Wee Jia Sheen                 | 1211110222     | Simulation logic, Q2-Q4 report              |
-
 ## 📜 License
 
 This project is part of an academic assignment for educational purposes and is not licensed for commercial use.
